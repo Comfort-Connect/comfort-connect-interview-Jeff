@@ -1,4 +1,4 @@
-#Direct-to-Consumer Financing Flow
+# Direct-to-Consumer Financing Flow
 
 Comfort Connect is a fintech platform that connects homeowners with financing options for home comfort equipment (HVAC, plumbing, generators) through a network of lending partners. Today, all applications originate through a dealer/contractor portal. We want to build a Direct-to-Consumer (D2C) channel where homeowners can visit a website, apply for financing on their own, and get matched with both a financing offer and a local contractor for installation.
 
